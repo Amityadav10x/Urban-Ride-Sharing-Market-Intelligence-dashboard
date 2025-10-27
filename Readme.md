@@ -85,7 +85,7 @@
     <p>If you have any questions or feedback regarding this project, feel free to reach out!</p>
     <ul>
         <li><strong>Email:</strong> <a href="mailto:Amityadav10x@gmail.com">Gmail</a></li>
-        <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/amit-yadav-10x">Amit Yadav</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yadavamit10x">Amit Yadav</a></li>
         <li><strong>GitHub:</strong> <a href="https://github.com/amityadav10x">GitHub Profile</a></li>
         <li><strong>Project Portfolio:</strong> <a href="https://amityadav10x.github.io/Portfolio_Website/">Project Portfolio</a></li>
     </ul>
@@ -97,4 +97,5 @@
     </footer>
 </body>
 </html>
+
 
