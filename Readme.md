@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Goodcabs Transportation Analysis</h1>
+        <h1>Urban Ride-Sharing Market Intelligence</h1>
     </header>
 
 <section id="project-overview">
@@ -97,3 +97,4 @@
     </footer>
 </body>
 </html>
+
